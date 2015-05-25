@@ -1,0 +1,22 @@
+{
+  "name": "gulp_set",
+  "version": "1.0.0",
+  "description": "Gulp設定ファイル",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "gworks",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.7.4",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-uglify": "^1.2.0"
+  }
+}
